@@ -30,9 +30,9 @@ java -cp KafkaTemperatureAnalytics-0.1.jar com.appu.main.EquipmentAnalytics
 ```
 
 ## Demo Link
-[Youtube Link](Yet to publish)
+[Youtube Link](https://youtu.be/Cj3BeA4bV1c)
 
-[Medium](Yet to publish)
+[Medium](https://medium.com/@masterappu/realtime-temperature-analytics-using-kafka-b1db9d91b870)
 
 
 
