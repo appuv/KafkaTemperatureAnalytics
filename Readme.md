@@ -20,7 +20,7 @@ mvn clean install
 ## Run the project
 Follow the steps to get output
 
-Produce data in avro format using [Datagen](yet to commit) to the topics.
+Produce data in avro format using [Datagen](https://github.com/appuv/KafkaDataGen) to the topics.
 For Dashboard run the [Live Dashboard](https://github.com/appuv/Live-Dashboard-using-Kafka-and-Spring-Websocket)
 
 To Change Capture
@@ -30,9 +30,9 @@ java -cp KafkaTemperatureAnalytics-0.1.jar com.appu.main.EquipmentAnalytics
 ```
 
 ## Demo Link
-[Youtube Link](Yet to publish)
+[Youtube Link](https://youtu.be/Cj3BeA4bV1c)
 
-[Medium](Yet to publish)
+[Medium](https://medium.com/@masterappu/realtime-temperature-analytics-using-kafka-b1db9d91b870)
 
 
 
