@@ -21,7 +21,7 @@
         <jacoco.version>0.8.5</jacoco.version>
         <maven-shader.version>3.2.4</maven-shader.version>
 		<maven-compiler.version>3.5.1</maven-compiler.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <kafka-streams-test-utils.version>2.5.0</kafka-streams-test-utils.version>
         <jackson-core.version>2.11.2</jackson-core.version>
         <slf4j.json>2.0.0-alpha1</slf4j.json>
