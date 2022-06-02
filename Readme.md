@@ -7,6 +7,7 @@ Kafka Streams app to process streaming events from sensors
 2. [Docker](https://www.docker.com/)   
 3. [Confluent Kafka 6.2.0](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html)
 4. [Maven](https://maven.apache.org/)
+
 ## Getting Started
 To run the application,
 Change PropertyFiles **application.properties**  and **equipment.properties** accordingly
@@ -29,18 +30,8 @@ java -cp KafkaTemperatureAnalytics-0.1.jar com.appu.main.EquipmentAvroToJson
 java -cp KafkaTemperatureAnalytics-0.1.jar com.appu.main.EquipmentAnalytics
 ```
 
-## Demo Link
-[Youtube Link](https://youtu.be/Cj3BeA4bV1c)
-
+## Further Reading
 [Medium](https://medium.com/@masterappu/realtime-temperature-analytics-using-kafka-b1db9d91b870)
 
-
-
-
-
-
-
-
-
-
-
+## Demo
+[Youtube](https://youtu.be/Cj3BeA4bV1c)
