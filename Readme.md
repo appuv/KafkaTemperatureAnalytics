@@ -4,7 +4,7 @@ Kafka Streams app to process streaming events from sensors
 [![CodeQL](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml)
 
 # Architecture
-![Architecture](images/approach.png)
+![Architecture](images/arch.png)
 
 
 ## Prerequisite
