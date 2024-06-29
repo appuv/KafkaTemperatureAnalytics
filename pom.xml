@@ -26,7 +26,7 @@
         <jackson-core.version>2.11.2</jackson-core.version>
         <slf4j.json>2.0.0-alpha1</slf4j.json>
 		<lombok.version>1.18.20</lombok.version>
-        <commons.version>2.0</commons.version>
+        <commons.version>2.10.1</commons.version>
         <jcommander.version>1.48</jcommander.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
