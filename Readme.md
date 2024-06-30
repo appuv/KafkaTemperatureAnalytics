@@ -1,7 +1,10 @@
 # Kafka Temperature Analytics
 Kafka Streams app to process streaming events from sensors
 
-[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/codeql.yml) [![Java CI with Maven](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml/badge.svg)](https://github.com/appuv/KafkaTemperatureAnalytics/actions/workflows/maven.yml) [![License](https://img.shields.io/github/license/appuv/KafkaTemperatureAnalytics)](https://github.com/appuv/KafkaTemperatureAnalytics/blob/main/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/appuv/KafkaTemperatureAnalytics)]([https://github.com/appuv/KafkaTemperatureAnalytics](https://img.shields.io/github/languages/top/appuv/KafkaTemperatureAnalytics))
+
+
+
 
 # Architecture
 ![Architecture](images/arch.png)
