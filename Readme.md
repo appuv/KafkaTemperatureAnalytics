@@ -43,3 +43,6 @@ java -cp KafkaTemperatureAnalytics-0.1.jar com.appu.main.EquipmentAnalytics
 
 ## Demo
 [Youtube](https://youtu.be/Cj3BeA4bV1c)
+
+## Alternatives
+[KafkaTemperatureAnalyticsSpark](https://github.com/appuv/KafkaTemperatureAnalyticsSpark)  | [KafkaTemperatureAnalyticsFlink](https://github.com/appuv/KafkaTemperatureAnalyticsFlink)
